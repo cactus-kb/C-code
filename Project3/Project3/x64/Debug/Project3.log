@@ -1,0 +1,16 @@
+﻿  day3.c
+f:\2019-8-2code\project3\project3\day3.c(15): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  f:\2019-8-2code\project3\project3\day3.c(15): note: 请考虑在格式字符串中使用“%zd”
+f:\2019-8-2code\project3\project3\day3.c(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  f:\2019-8-2code\project3\project3\day3.c(16): note: 请考虑在格式字符串中使用“%zd”
+f:\2019-8-2code\project3\project3\day3.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  f:\2019-8-2code\project3\project3\day3.c(17): note: 请考虑在格式字符串中使用“%zd”
+f:\2019-8-2code\project3\project3\day3.c(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  f:\2019-8-2code\project3\project3\day3.c(18): note: 请考虑在格式字符串中使用“%zd”
+f:\2019-8-2code\project3\project3\day3.c(19): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  f:\2019-8-2code\project3\project3\day3.c(19): note: 请考虑在格式字符串中使用“%zd”
+f:\2019-8-2code\project3\project3\day3.c(20): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  f:\2019-8-2code\project3\project3\day3.c(20): note: 请考虑在格式字符串中使用“%zd”
+f:\2019-8-2code\project3\project3\day3.c(21): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  f:\2019-8-2code\project3\project3\day3.c(21): note: 请考虑在格式字符串中使用“%zd”
+  Project3.vcxproj -> F:\2019-8-2code\Project3\x64\Debug\Project3.exe
